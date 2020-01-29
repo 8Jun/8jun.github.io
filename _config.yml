@@ -1,17 +1,17 @@
 # Site settings
-title: Mauricio Urraco
+title: Junji Wiener
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+username: Junji Wiener
+user_description: Masters student at the University of Colorado, Boulder at Leeds School of Business. Area of study: Business Analytics with a focus on Security Analytics. Graduated from Chestnut Hill College in 2013 with a Bachelors of Science in Accounting and Philadelphia University in 2015 with an MBA - Finance.
+user_title: Masters Student
+email: dawi9234@colorado.edu
+linkedin_username: junjiwiener
+github_username: 8Jun
+reddit_username: BATTLECATHOTS
 
 # Google-analytics
 google-analytics:
